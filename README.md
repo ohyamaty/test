@@ -3,7 +3,7 @@
 以下のボタンを押してColabで開いてください．
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/YOURNAME/joho-linear-regression-colab/blob/main/supervised_linear_regression_overfitting_colab.ipynb
+https://colab.research.google.com/github/ohyamaty/test/blob/main/%E6%95%99%E5%B8%AB%E3%81%82%E3%82%8A%E5%AD%A6%E7%BF%92%E4%BD%93%E9%A8%93_%E9%85%8D%E5%B8%83%E7%94%A8.ipynb
 )
 
 ## 学生への指示
